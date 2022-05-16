@@ -1,0 +1,2 @@
+# KoreanT-rk-Android-Uygulamas-Beta-1
+Uygulama Hakkında : Koreantürk, 2009 yılında kurulmuş ve kore dizileri söz konusu olunca akla gelen ilk isimlerden biri haline gelmiştir. Kore dizileri, romantik türde diziler başta olmak üzere bir çok türde dizi çeşidine sahiptir. Çoğu, Güney Kore günlük hayatından kesitler içermekle birlikte, fantastik, bilim kurgu ve benzer bir çok türde dizi ve film yelpazesine sahiptir.
